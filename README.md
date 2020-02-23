@@ -1,2 +1,3 @@
-# lecture20
-Code shown in the 20th lecture
+# Lecture: Sequential composition
+
+Code shown in the CS141 lecture on sequential composition.
