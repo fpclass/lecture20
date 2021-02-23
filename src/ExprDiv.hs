@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
 -- Functional Programming (CS141)                                             --
--- Lecture: Sequential composition                                            --
+-- Lecture: Introduction to Sequential Composition                            --
 --------------------------------------------------------------------------------
 
 module ExprDiv where
